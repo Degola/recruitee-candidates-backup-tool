@@ -1,0 +1,9 @@
+.idea
+.DS_Store
+*~
+
+.env
+cache
+candidates
+node_modules
+google-credentials.json
